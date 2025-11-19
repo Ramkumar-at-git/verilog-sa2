@@ -502,4 +502,3 @@ The digital door lock system showcases the effective use of Verilog HDL and FSMs
 **Name:** RAMKUMAR Y
 **Reg No:** 212223063005
 
-Just tell me — I can generate it!
